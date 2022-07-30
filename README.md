@@ -13,7 +13,7 @@
   # Installation
   clone this repository to your computer to run the application.
   # Usage
-  Once you have all files downloaded all you have to do is run "npm run start", this will start the applications and you will be able to create notes.
+  Once you have all files downloaded all you have to do is run "npm start", this will start the applications
   # License
   MIT
 Copyright (c) 2022
